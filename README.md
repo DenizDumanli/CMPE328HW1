@@ -24,3 +24,5 @@ PUT localhost:5000/users with body as to update the user with id 2:
 }
 
 DELETE localhost:5000/user/2 to delete user that has id as 2.
+
+You can also use this site to test the program http://hw1-env.eba-ai4e8y8s.eu-central-1.elasticbeanstalk.com/users by using Postman.
