@@ -2,6 +2,7 @@
 You can simply download the code and open the project in IntelliJ or in other IDE's and run it from the DemoApplication.java class.
 
 Some test scripts for Postman
+
 GET localhost:5000/users to see all users
 
 POST localhost:5000/users with body as to add user:
